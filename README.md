@@ -1,5 +1,9 @@
 # JavaScript GameBoy Color Emulator
 
+## PLAY IT HERE!
+
+https://avicarpio.github.io/Gameboy-Project-Island/
+
 Fork of Grant Galitz's JavaScript GameBoy Color Emulator made for running a single ROM
 when uploading homebrew games to services like Itch.io.
 
